@@ -1,0 +1,7 @@
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\server\bin\Debug\netcoreapp3.0\server.exe
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\server\bin\Debug\netcoreapp3.0\model.dll
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\server\bin\Debug\netcoreapp3.0\model.pdb
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\server\obj\Debug\netcoreapp3.0\server.csprojAssemblyReference.cache
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\server\obj\Debug\netcoreapp3.0\server.AssemblyInfoInputs.cache
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\server\obj\Debug\netcoreapp3.0\server.AssemblyInfo.cs
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\server\obj\Debug\netcoreapp3.0\server.csproj.CopyComplete

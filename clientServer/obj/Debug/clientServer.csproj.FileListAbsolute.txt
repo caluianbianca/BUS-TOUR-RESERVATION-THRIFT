@@ -1,0 +1,11 @@
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\bin\Debug\clientServer.exe.config
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\bin\Debug\clientServer.exe
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\bin\Debug\clientServer.pdb
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\bin\Debug\model.dll
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\bin\Debug\model.pdb
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\obj\Debug\clientServer.csprojAssemblyReference.cache
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\obj\Debug\clientServer.Properties.Resources.resources
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\obj\Debug\clientServer.csproj.GenerateResource.cache
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\obj\Debug\clientServer.csproj.CopyComplete
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\obj\Debug\clientServer.exe
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\clientServer\obj\Debug\clientServer.pdb

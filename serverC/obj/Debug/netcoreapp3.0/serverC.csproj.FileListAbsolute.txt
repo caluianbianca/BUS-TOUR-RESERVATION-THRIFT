@@ -1,0 +1,11 @@
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\bin\Debug\netcoreapp3.0\serverC.exe
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\bin\Debug\netcoreapp3.0\System.Runtime.Remoting.dll
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\bin\Debug\netcoreapp3.0\System.Runtime.Serialization.Formatters.Soap.dll
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\bin\Debug\netcoreapp3.0\System.DirectoryServices.dll
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\bin\Debug\netcoreapp3.0\System.Runtime.Remoting.xml
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\bin\Debug\netcoreapp3.0\System.Runtime.Serialization.Formatters.Soap.xml
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\bin\Debug\netcoreapp3.0\System.DirectoryServices.xml
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\obj\Debug\netcoreapp3.0\serverC.csprojAssemblyReference.cache
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\obj\Debug\netcoreapp3.0\serverC.AssemblyInfoInputs.cache
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\obj\Debug\netcoreapp3.0\serverC.AssemblyInfo.cs
+E:\ANUL II\SEMESTRUL II\METODE DE PROIECTARE SI PROGRAMARE\Thrift\serverC\obj\Debug\netcoreapp3.0\serverC.csproj.CopyComplete
